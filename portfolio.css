@@ -1,0 +1,95 @@
+.block1{
+    
+    height: 650px;
+    background-color:#00A18D;
+}
+
+.block2{
+    
+    height:650px;
+    background-color:white;
+}
+
+
+.cont2{
+    
+    margin-top: 250px;
+}
+.cont3{
+    font-size: 58px;
+    color: white;
+}
+.cont4{
+    font-size: 32px;
+    color: white;
+}
+.cont5{
+    font-size: 35px;
+    margin-top: 10px;
+}
+.cont6{
+    font-size: 30px;
+    color: #00A18D;
+    margin-top: 45px;
+}
+.cont7{
+    font-size: 25px;
+    margin-top: 25px;
+}
+.cont8{
+    width: 600px;
+    height: 20px;
+    margin-top: -31px;
+    margin-left: 150px;
+}
+.progress-bar {
+    
+    width: 80%;
+    height: 100%;
+    font-size: 12px;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: #242424;
+}
+.progress-bar1 {
+    
+    width: 65%;
+    height: 100%;
+    font-size: 12px;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: #242424;
+}
+.progress-bar2 {
+    
+    width: 60%;
+    height: 100%;
+    font-size: 12px;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: #242424;
+}
+.progress-bar3 {
+    
+    width: 70%;
+    height: 100%;
+    font-size: 12px;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: #242424;
+}
+.email{
+    font-size: 20px;
+    margin-top: 45px;
+    margin-left: 20px;
+}
+.ph{
+    font-size: 20px;
+        margin-top: -28px;
+   
+}
+
