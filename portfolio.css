@@ -2,6 +2,7 @@
     
     height: 650px;
     background-color:#00A18D;
+    
 }
 
 .block2{
@@ -14,23 +15,28 @@
 .cont2{
     
     margin-top: 250px;
+   
 }
 .cont3{
     font-size: 58px;
     color: white;
+    font-family: 'Baloo Paaji', cursive;
 }
 .cont4{
     font-size: 32px;
     color: white;
+    font-family: 'Baloo Paaji', cursive;
 }
 .cont5{
     font-size: 35px;
     margin-top: 10px;
+    font-family: 'Fascinate Inline', cursive;
 }
 .cont6{
     font-size: 30px;
     color: #00A18D;
     margin-top: 45px;
+    font-family: 'Righteous', cursive;
 }
 .cont7{
     font-size: 25px;
@@ -91,5 +97,8 @@
     font-size: 20px;
         margin-top: -28px;
    
+}
+.f-f-k{
+   font-family: 'PT Serif', serif;
 }
 
