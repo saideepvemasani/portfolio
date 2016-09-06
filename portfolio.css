@@ -18,25 +18,25 @@
    
 }
 .cont3{
-    font-size: 58px;
+    font-size: 56px;
     color: white;
-    font-family: 'Baloo Paaji', cursive;
+    font-family: 'Roboto Slab', serif;
 }
 .cont4{
     font-size: 32px;
     color: white;
-    font-family: 'Baloo Paaji', cursive;
+    font-family: 'Roboto Slab', serif;
 }
 .cont5{
     font-size: 35px;
     margin-top: 10px;
-    font-family: 'Fascinate Inline', cursive;
+    font-family: 'Fjalla One', sans-serif;
 }
 .cont6{
     font-size: 30px;
     color: #00A18D;
     margin-top: 45px;
-    font-family: 'Righteous', cursive;
+    font-family: 'Roboto Slab', serif;
 }
 .cont7{
     font-size: 25px;
@@ -99,6 +99,282 @@
    
 }
 .f-f-k{
-   font-family: 'PT Serif', serif;
+   font-family: 'Raleway', sans-serif;
+}
+.skills{
+    height:500px; background-color:#eb6a27; color:white;
+}
+
+
+@media screen and (max-width: 320px) and (min-width: 270px) {
+   
+    .cont2{
+        margin-left: 40px;
+        margin-top:140px;
+    }
+    .abt{
+        margin-left: 70px;
+        font-size: 20px;
+    }
+    .cont3{
+        font-size: 25px;
+        width: 550px;
+    }
+    .cont4{
+        font-size: 20px;
+    }
+    .block1{
+        height: 400px;
+    }
+    .cont6{
+        font-size: 18px;
+        margin-left: 10px;
+    }
+    .cont7{
+        font-size: 18px;
+        margin-left: 10px;
+    }
+    .skills{
+        margin-top: 50px;
+    }
+    .skil{
+        margin-left: 70px;
+      font-size: 20px;
+    }
+    .sk2{
+        font-size: 8px;
+    }
+    .cont8{
+        width: 100px;
+        margin-left:120px;
+        
+    }
+    .cont9{
+        font-size: 20px;
+        margin-left: 70px;
+    }
+   
+    .fcb{
+    visibility: hidden;
+        
+        }
+    .ph{
+        font-size: 15px;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .email{
+        font-size: 15px;
+        margin-top: -10px;
+        margin-left: 10px
+    }
+
+}
+
+@media screen and (max-width: 375px) and (min-width: 321px) {
+   
+.cont2{
+        {
+    margin-left: 60px;
+    margin-top: 160px;
+}
+   
+    }
+    .abt{
+        margin-left: 110px;
+        font-size: 20px;
+    }
+    .cont3{
+        font-size: 25px;
+        width: 590px;
+    }
+    .cont4{
+        font-size: 20px;
+    }
+    .block1{
+        height: 400px;
+    }
+    .cont6{
+        font-size: 18px;
+        margin-left: 10px;
+    }
+    .cont7{
+        font-size: 18px;
+        margin-left: 10px;
+    }
+    .skills{
+        margin-top: 50px;
+        height: 300px;
+    }
+    .skil{
+        margin-left: 90px;
+      font-size: 25px;
+    }
+    .sk2{
+        font-size: 8px;
+    }
+    .cont8{
+        width: 190px;
+        margin-left:120px;
+        
+    }
+    .cont9{
+        font-size: 20px;
+        margin-left: 70px;
+    }
+   
+    .fcb{
+    visibility: hidden;
+        
+        }
+    .ph{
+        font-size: 15px;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .email{
+        font-size: 15px;
+        margin-top: -10px;
+        margin-left: 10px
+    }
+
+}
+
+@media screen and (max-width: 425px) and (min-width: 376px) {
+   
+.cont2{
+        {
+    margin-left: 40px;
+    margin-top: 150px;
+}
+   
+    }
+    .abt{
+        margin-left: 110px;
+        font-size: 20px;
+    }
+    .cont3{
+        font-size: 25px;
+        width: 590px;
+    }
+    .cont4{
+        font-size: 20px;
+    }
+    .block1{
+        height: 400px;
+    }
+    .cont6{
+        font-size: 18px;
+        margin-left: 10px;
+    }
+    .cont7{
+        font-size: 18px;
+        margin-left: 10px;
+    }
+    .skills{
+        margin-top: 50px;
+        height: 400px;
+    }
+    .skil{
+        margin-left: 150px;
+      font-size: 25px;
+    }
+    .sk2{
+        font-size: 8px;
+    }
+    .cont8{
+        width: 190px;
+        margin-left:120px;
+        
+    }
+    .cont9{
+        font-size: 20px;
+        margin-left: 70px;
+    }
+   
+    .fcb{
+    visibility: hidden;
+        
+        }
+    .ph{
+        font-size: 15px;
+        margin-top: 14px;
+        margin-left: 10px;
+    }
+    .email{
+        font-size: 15px;
+        margin-top: -8px;
+        margin-left: 10px
+    }
+
+}
+
+@media screen and (max-width: 768px) and (min-width: 426px) {
+   
+.cont2{
+        {
+    margin-left: 60px;
+    margin-top: 150px;
+}
+   
+    }
+    .abt{
+        margin-left: 150px;
+        font-size: 20px;
+    }
+    .cont3{
+        font-size: 25px;
+        width: 590px;
+    }
+    .cont4{
+        font-size: 20px;
+    }
+    .block1{
+        height: 400px;
+    }
+    .cont6{
+        font-size: 18px;
+        margin-left: 10px;
+    }
+    .cont7{
+        font-size: 18px;
+        margin-left: 10px;
+    }
+    .skills{
+        margin-top: 50px;
+        height: 400px;
+    }
+    .skil{
+        margin-left: 150px;
+      font-size: 25px;
+    }
+    .sk2{
+        font-size: 13px;
+    }
+    .cont8{
+        width: 220px;
+        margin-left:120px;
+        
+    }
+    .cont9{
+        font-size: 20px;
+        margin-left: 70px;
+    }
+   
+    .fcb{
+    visibility: hidden;
+        
+        }
+    .ph{
+        font-size: 15px;
+        margin-top: 14px;
+        margin-left: 10px;
+    }
+    .email{
+        font-size: 15px;
+        margin-top: -8px;
+        margin-left: 10px
+    }
+
 }
 
