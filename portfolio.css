@@ -309,35 +309,35 @@
 
 }
 
-@media screen and (max-width: 768px) and (min-width: 426px) {
+@media screen and (max-width: 768px) and (min-width: 425px) {
    
 .cont2{
         {
-    margin-left: 60px;
-    margin-top: 150px;
+    margin-left: 80px;
+    margin-top: 170px;
 }
    
     }
     .abt{
         margin-left: 150px;
-        font-size: 20px;
+        font-size: 25px;
     }
     .cont3{
-        font-size: 25px;
+        font-size: 30px;
         width: 590px;
     }
     .cont4{
-        font-size: 20px;
+        font-size: 25px;
     }
     .block1{
         height: 400px;
     }
     .cont6{
-        font-size: 18px;
-        margin-left: 10px;
+        font-size: 25px;
+        margin-left: 30px;
     }
     .cont7{
-        font-size: 18px;
+        font-size: 14px;
         margin-left: 10px;
     }
     .skills{
@@ -349,32 +349,106 @@
       font-size: 25px;
     }
     .sk2{
-        font-size: 13px;
+        font-size: 10px;
     }
     .cont8{
-        width: 220px;
-        margin-left:120px;
+        width: 180px;
+        margin-left:170px;
         
     }
     .cont9{
-        font-size: 20px;
-        margin-left: 70px;
+        font-size: 25px;
+        margin-left: 150px;
     }
    
-    .fcb{
-    visibility: hidden;
+    .fa{
+        margin-left: 90px;
+    ;
         
         }
     .ph{
         font-size: 15px;
-        margin-top: 14px;
+        margin-top: 15px;
         margin-left: 10px;
     }
     .email{
         font-size: 15px;
-        margin-top: -8px;
-        margin-left: 10px
+        margin-top: 50px;
+        margin-left: 5px
     }
 
 }
 
+
+
+
+@media screen and (max-width: 1024px) and (min-width: 769px) {
+   
+.cont2{
+        {
+    margin-left: 50px;
+    margin-top: 100px;
+}
+   
+    }
+    .abt{
+        margin-left: 100px;
+        font-size: 30px;
+    }
+    .cont3{
+        font-size: 30px;
+        width: 590px;
+    }
+    .cont4{
+        font-size: 25px;
+        margin-left: 200px;
+    }
+    .block1{
+        height: 400px;
+    }
+    .cont6{
+        font-size: 30px;
+        margin-left: 15px;
+    }
+    .cont7{
+        font-size: 25px;
+        margin-left: 10px;
+    }
+    .skills{
+        margin-top: 50px;
+        height: 400px;
+    }
+    .skil{
+        margin-left: 100px;
+      font-size: 30px;
+    }
+    .sk2{
+        font-size: 13px;
+    }
+    .cont8{
+        width: 380px;
+        margin-left:170px;
+        
+    }
+    .cont9{
+        font-size: 30px;
+        margin-left: 100px;
+    }
+   
+    .fa{
+        margin-left: -60px;
+    ;
+        
+        }
+    .ph{
+        font-size: 15px;
+        margin-top: -25px;
+        margin-left: 800px;
+    }
+    .email{
+        font-size: 15px;
+        margin-top: 50px;
+        margin-left: 5px
+    }
+
+}
