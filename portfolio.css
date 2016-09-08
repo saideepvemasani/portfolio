@@ -1,9 +1,8 @@
+
 .block1{
     
     height: 650px;
     background-color:#00A18D;
-    
-    
 }
 
 .block2{
@@ -19,12 +18,12 @@
     
 }
 
-
 .cont2{
     
     margin-top: 250px;
    
 }
+
 .cont3{
 font-size: 50px;
 color: white;
@@ -54,8 +53,6 @@ font-family: 'Roboto Slab', serif;
     width: 555px;
     height: 20px;
     margin-top;-30px;
-    
-    
 }
 
 .progress-bar {
@@ -98,27 +95,13 @@ font-family: 'Roboto Slab', serif;
     text-align: center;
     background-color: #242424;
 }
-.email{
-    font-size: 20px;
-    margin-top: 45px;
-    margin-left: 20px;
+.contact{
+   height:270px; background-color:#242424; color:white; 
 }
-.ph{
-    font-size: 20px;
-        margin-top: -28px;
-   
-}
-.f-f-k{
-   font-family: 'Raleway', sans-serif;
-}
-.skills{
-    height:500px; background-color:#eb6a27; color:white;
-}
-@media only screen and (max-width: 320px) {
 
-    .block1{
-        width: 100%;
-    }
-
+.fontasw{
+    margin-top: 25px;
 }
+
+
 
